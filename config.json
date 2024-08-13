@@ -1,0 +1,7 @@
+{
+    "ClosedAI": "API-key",
+    "GPU": true,
+    "port": 5000,
+    "model": "medium",
+    "format": "mp3"
+}

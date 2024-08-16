@@ -1,7 +1,8 @@
 {
-    "ClosedAI": "API-key",
+    "ClosedAI": "",
     "GPU": true,
     "port": 5000,
     "model": "medium",
-    "format": "mp3"
+    "format": "mp3",
+    "proxy_url": ""
 }
